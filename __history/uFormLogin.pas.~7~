@@ -1,0 +1,40 @@
+unit uFormLogin;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls, Vcl.ComCtrls, uAcesso;
+
+type
+  TfrmLogin = class(TForm)
+    lbCPF: TLabel;
+    Label2: TLabel;
+    edCPF: TEdit;
+    edSenha: TEdit;
+    btnEntrar: TButton;
+    sbMensagem: TStatusBar;
+    procedure btnEntrarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmLogin: TfrmLogin;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmLogin.btnEntrarClick(Sender: TObject);
+var
+   acesso : TAcesso;
+begin
+   acesso = new Acesso();
+
+
+end;
+
+end.

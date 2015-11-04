@@ -1,0 +1,18 @@
+program pConcurso;
+
+uses
+  Vcl.Forms,
+  uFormLogin in 'uFormLogin.pas' {frmLogin},
+  uFormDepartamentos in 'uFormDepartamentos.pas' {frmDepartamentos},
+  uFormSobre in 'uFormSobre.pas' {frmSobre};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmLogin, frmLogin);
+  Application.CreateForm(TfrmDepartamentos, frmDepartamentos);
+  Application.CreateForm(TfrmSobre, frmSobre);
+  Application.Run;
+end.

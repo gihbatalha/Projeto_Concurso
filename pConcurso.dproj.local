@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/28 10:38:22.000.448,=C:\Users\u13187\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/28 11:07:14.000.827,C:\Users\u13187\Documents\Embarcadero\Studio\Projects\Unit1.dfm=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\uFormLogin.dfm</Transaction>
+    <Transaction>2015/09/28 11:07:14.000.827,C:\Users\u13187\Documents\Embarcadero\Studio\Projects\Unit1.pas=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\uFormLogin.pas</Transaction>
+    <Transaction>2015/09/28 11:07:20.000.968,C:\Users\u13187\Documents\Embarcadero\Studio\Projects\Project1.dproj=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\pConcurso.dproj</Transaction>
+    <Transaction>2015/09/28 11:07:31.000.239,=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/09/28 11:41:39.000.685,=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\Unit2.pas</Transaction>
+    <Transaction>2015/09/28 11:47:35.000.490,Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\Unit1.dfm=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\uFormDepartamentos.dfm</Transaction>
+    <Transaction>2015/09/28 11:47:35.000.490,Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\Unit1.pas=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\uFormDepartamentos.pas</Transaction>
+    <Transaction>2015/09/28 11:47:41.000.129,Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\Unit2.dfm=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\uFormSobre.dfm</Transaction>
+    <Transaction>2015/09/28 11:47:41.000.129,Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\Unit2.pas=Z:\4o Semestre\Práticas Profissionais III\Projeto\Delphi\uFormSobre.pas</Transaction>
+    <Transaction>2015/10/26 08:53:06.000.037,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/26 08:53:19.000.405,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/10/26 08:54:54.000.001,G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\uFormConexao.pas</Transaction>
+    <Transaction>2015/10/26 08:54:54.000.001,G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.dfm=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\uFormConexao.dfm</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.727,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uCandidato.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.807,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uConcursoCandidato.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.788,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uConcurso.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.997,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uFuncaoJulgador.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.960,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uFormacao.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.877,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uEmprego.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.712,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uBancaJulgadoraConcurso.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.900,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uEscolaridade.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.853,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uDepartamento.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.928,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uEstado.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.685,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uTipoConcurso.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.698,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uAcesso.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.828,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uConcursoJulgador.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.674,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\__history</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.758,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uCidade.pas</Transaction>
+    <Transaction>2015/10/26 09:47:44.000.743,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uCandidatoAtividade.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.159,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uQuestoesProvaArquicao.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.071,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uJulgador.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.112,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uPerfil.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.285,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uSituacaoConcurso.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.035,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uGrauCurso.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.202,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uQuestoesProvaDidatica.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.244,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uSexo.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.373,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uTipoAtividade.pas</Transaction>
+    <Transaction>2015/10/26 09:47:45.000.330,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\classes\uSituacaoFormacao.pas</Transaction>
+    <Transaction>2015/11/04 08:38:52.000.747,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/11/04 08:39:33.000.960,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/11/04 08:40:47.000.818,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/11/04 08:44:12.000.506,G:\Visual_Delphi_PraticasIII_incompleto\Delphi\uFormConexao.pas=</Transaction>
+    <Transaction>2015/11/04 08:44:47.000.695,G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.dfm=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\uConexao.dfm</Transaction>
+    <Transaction>2015/11/04 08:44:47.000.695,G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\uConexao.pas</Transaction>
+    <Transaction>2015/11/04 08:59:06.000.096,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\Unit1.pas</Transaction>
+    <Transaction>2015/11/04 09:00:12.000.977,=G:\Visual_Delphi_PraticasIII_incompleto\Delphi\uPrincipal.pas</Transaction>
+  </Transactions>
+</BorlandProject>

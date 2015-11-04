@@ -1,0 +1,47 @@
+program pConcurso;
+
+
+
+uses
+  Vcl.Forms,
+  uFormLogin in 'uFormLogin.pas' {frmLogin},
+  uFormDepartamentos in 'uFormDepartamentos.pas' {frmDepartamentos},
+  uFormSobre in 'uFormSobre.pas' {frmSobre},
+  uTipoConcurso in 'classes\uTipoConcurso.pas',
+  uAcesso in 'classes\uAcesso.pas',
+  uBancaJulgadoraConcurso in 'classes\uBancaJulgadoraConcurso.pas',
+  uCandidato in 'classes\uCandidato.pas',
+  uCandidatoAtividade in 'classes\uCandidatoAtividade.pas',
+  uCidade in 'classes\uCidade.pas',
+  uConcurso in 'classes\uConcurso.pas',
+  uConcursoCandidato in 'classes\uConcursoCandidato.pas',
+  uConcursoJulgador in 'classes\uConcursoJulgador.pas',
+  uDepartamento in 'classes\uDepartamento.pas',
+  uEmprego in 'classes\uEmprego.pas',
+  uEscolaridade in 'classes\uEscolaridade.pas',
+  uEstado in 'classes\uEstado.pas',
+  uFormacao in 'classes\uFormacao.pas',
+  uFuncaoJulgador in 'classes\uFuncaoJulgador.pas',
+  uGrauCurso in 'classes\uGrauCurso.pas',
+  uJulgador in 'classes\uJulgador.pas',
+  uPerfil in 'classes\uPerfil.pas',
+  uQuestoesProvaArquicao in 'classes\uQuestoesProvaArquicao.pas',
+  uQuestoesProvaDidatica in 'classes\uQuestoesProvaDidatica.pas',
+  uSexo in 'classes\uSexo.pas',
+  uSituacaoConcurso in 'classes\uSituacaoConcurso.pas',
+  uSituacaoFormacao in 'classes\uSituacaoFormacao.pas',
+  uTipoAtividade in 'classes\uTipoAtividade.pas',
+  uConexao in 'uConexao.pas' {DataModuleConexao: TDataModule},
+  uPrincipal in 'uPrincipal.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmLogin, frmLogin);
+  Application.CreateForm(TfrmDepartamentos, frmDepartamentos);
+  Application.CreateForm(TfrmSobre, frmSobre);
+  Application.CreateForm(TDataModuleConexao, DataModuleConexao);
+  Application.Run;
+end.
